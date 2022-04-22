@@ -1,0 +1,26 @@
+{
+  "id": "4cbbcc3f-498a-4b8e-936c-4f9d93da7a1a",
+  "uid": "aut-eum-nulla",
+  "type": "post-type",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Matrix e-business applications",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "heading1",
+        "text": "Matrix B2C infrastructures",
+        "spans": []
+      },
+      {
+        "type": "paragraph",
+        "text": "Enim dolor labore exercitation sit deserunt.",
+        "spans": []
+      }
+    ]
+  }
+}
